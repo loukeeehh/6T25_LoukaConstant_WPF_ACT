@@ -1,0 +1,42 @@
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\bin\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.exe
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\bin\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.deps.json
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\bin\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.runtimeconfig.json
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\bin\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.dll
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\bin\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.pdb
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.csproj.AssemblyReference.cache
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\MainWindow.g.cs
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\App.g.cs
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3_MarkupCompile.cache
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3_MarkupCompile.lref
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\MainWindow.baml
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.g.resources
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.GeneratedMSBuildEditorConfig.editorconfig
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.AssemblyInfoInputs.cache
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.AssemblyInfo.cs
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.csproj.CoreCompileInputs.cache
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.dll
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\refint\6T25_LoukaConstant_ACT3.dll
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.pdb
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.genruntimeconfig.cache
+H:\matière 6e\UAA14 WPF_Exos\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\ref\6T25_LoukaConstant_ACT3.dll
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3_MarkupCompile.cache
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3_MarkupCompile.lref
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.dll
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\refint\6T25_LoukaConstant_ACT3.dll
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.pdb
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\bin\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.exe
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\bin\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.deps.json
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\bin\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.runtimeconfig.json
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\bin\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.dll
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\bin\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.pdb
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.g.resources
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.AssemblyInfoInputs.cache
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.AssemblyInfo.cs
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.csproj.CoreCompileInputs.cache
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.sourcelink.json
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\6T25_LoukaConstant_ACT3.genruntimeconfig.cache
+C:\Users\louka\OneDrive\Documents\Année 2024-2025\Informatique 6e\UAA14 WPF\6T25_LoukaConstant_ACT3\6T25_LoukaConstant_ACT3\obj\Debug\net6.0-windows\ref\6T25_LoukaConstant_ACT3.dll
